@@ -1,0 +1,6 @@
+[book]
+authors = ["Yu Sun"]
+language = "zh"
+multilingual = false
+src = "src"
+title = "Cooking Documentation"
