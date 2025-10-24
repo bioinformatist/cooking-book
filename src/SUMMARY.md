@@ -6,6 +6,7 @@
 
 - [厨具](cooker/README.md)
     - [炒锅](cooker/wok.md)
+    - [勺子](cooker/spoon.md)
 - [食材](material/README.md)
     - [洋葱](material/onion.md)
 - [操作](technic/README.md)
@@ -16,3 +17,5 @@
 
 - [东南亚菜](southeast-asia/README.md)
     - [咖喱](southeast-asia/curry.md)
+- [粤菜](cantonese/README.md)
+    - [啫啫煲](cantonese/je-je-bao.md)
