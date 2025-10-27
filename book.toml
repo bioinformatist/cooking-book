@@ -4,3 +4,19 @@ language = "zh"
 multilingual = false
 src = "src"
 title = "Cooking Documentation"
+
+[preprocessor.embedify]
+scroll-to-top.enable = true
+
+footer.enable = true
+footer.message = "Copyright © 2025 • Created with ❤️ by [Richard Billyham (茉莉绿茶)](https://github.com/bioinformatist)"
+
+giscus.enable = true
+giscus.repo = "bioinformatist/cooking-book"
+giscus.repo-id = "R_kgDON3wXEA"
+giscus.category = "Announcements"
+giscus.category-id = "DIC_kwDON3wXEM4CxHpH"
+giscus.reactions-enabled = "1"
+giscus.theme = "book"
+giscus.lang = "zh-CN"
+giscus.loading = "lazy"
