@@ -8,8 +8,8 @@
 
 将半个洋葱切丁需要两步：
 
-1. 截面向下，垂直切，但保留根部约 `0.5` cm 的宽度，不要完全切断 <img class="right" width="30%" src="pickling_1.png" alt="The Rust logo">[^来源]
+1. 截面向下，垂直切，但保留根部约 `0.5` cm 的宽度，不要完全切断 <img class="right" width="30%" src="cutting_step_1.png" alt="cutting_step_1">[^来源]
 
-2. 将洋葱旋转，用手握住根部，横向切割[^来源] <img class="right" width="30%" src="pickling_2.png" alt="The Rust logo">
+2. 将洋葱旋转，用手握住根部，横向切割[^来源] <img class="right" width="30%" src="cutting_step_2.png" alt="cutting_step_2">
 
 [^来源]: https://www.womenshealthmag.com/tw/food-nutrition/diet/g46351253/how-to-cut-an-onion/
